@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github-user-contribution-chart-snake.vercel.app/api/snake?github=Arathics&color_dots=%23bfd6f6%2C%238dbdff%2C%2364a1f4%2C%234b91f1%2C%233c7dd9&color_snake=%233c7dd9" alt="snake animation" />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
 ###
@@ -15,6 +15,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Arathics.Arathics&" />
+</div>
+
+###
+
 <h1 align="center">Hey there! I'm Arathi 👋</h1>
 
 ###
@@ -22,12 +28,12 @@
 <h3 align="left">👩‍💻 About Me</h3>
 
 <p align="left">
-[cite_start]I am a <b>Computer Science Engineering</b> student at Government College of Engineering Kannur with a focus on AI and Machine Learning[cite: 9, 14].
+[cite_start]I am a <b>Computer Science Engineering</b> student at Government College of Engineering Kannur with a passion for building AI-driven solutions to solve real-world problems. [cite: 9, 14]
 <br><br>
-- [cite_start]🔭 **Working on:** AI-driven urban planning using Machine Learning and GIS[cite: 38].
-- [cite_start]📚 **Learning:** Advanced Deep Learning and IoT application development[cite: 14].
-- [cite_start]⚡ **Leadership:** Served as Design Team Coordinator for IEEE SB GCEK[cite: 89].
-- [cite_start]📧 **Email:** arathipradeep02@gmail.com [cite: 4]
+- [cite_start]🔭 **I’m currently working on:** An AI-driven urban planning system that optimizes road layouts and reduces energy consumption. [cite: 38]
+- [cite_start]📚 **I’m currently learning:** Advanced Geospatial Analysis and Deep Learning architectures. [cite: 81]
+- [cite_start]⚡ **Fun Fact:** I'm an active volunteer and served as the Design Team Coordinator for IEEE SB GCEK. [cite: 84, 89]
+- [cite_start]📧 **Reach me at:** arathipradeep02@gmail.com [cite: 4]
 </p>
 
 ###
@@ -37,21 +43,30 @@
 <div align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" />
-  <img src="https://img.shields.io/badge/MERN-Stack-green?style=for-the-badge" alt="mern" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" />
   <img src="https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="sql" />
+  <br>
+  <img src="https://img.shields.io/badge/MERN-Stack-green?style=for-the-badge" alt="mern" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="sklearn" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="fastapi" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" />
 </div>
 
 ###
 
-<h3 align="left">📊 GitHub Power Stats</h3>
+<h3 align="left">📝 Publications & Achievements</h3>
+
+- [cite_start]📄 **Smart Urban Planning:** Presented a research paper at the **IEEE-sponsored ICCICA-2025** on optimizing traffic and energy using ML and GIS. [cite: 29, 32]
+- [cite_start]🏆 **NPTEL Elite:** Designated as "Elite" in Python for Data Science by IIT Madras. [cite: 58]
+- [cite_start]☁️ **Oracle Certified:** OCI 2025 AI Foundations Associate. [cite: 61]
+
+###
+
+<h3 align="left">🔥 My Stats:</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arathics&show_icons=true&theme=transparent&hide_border=true&title_color=3c7dd9&icon_color=3c7dd9&text_color=ffffff" alt="GitHub Stats" height="170" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arathics&layout=compact&theme=transparent&hide_border=true&title_color=3c7dd9&text_color=ffffff" alt="Top Languages" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arathics&theme=transparent&hide_border=true&stroke=3c7dd9&ring=3c7dd9&fire=3c7dd9&currStreakLabel=3c7dd9" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arathics&show_icons=true&theme=dark" alt="Arathi's GitHub stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arathics&layout=compact&theme=dark" alt="Top Languages" height="180" />
 </div>
