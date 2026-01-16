@@ -64,20 +64,6 @@ I am a <b>Computer Science Engineering</b> graduate from Government College of E
 ###
 
 <h3 align="left">📊 GitHub Activity</h3>
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Arathics&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-    height="150"
-    alt="GitHub stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arathics&layout=compact&theme=dracula"
-    height="150"
-    alt="Top languages"
-  />
-</div>
-
-<br>
 
 <div align="center">
   <img src="https://ghchart.rshah.org/Arathics" alt="GitHub contribution graph" />
