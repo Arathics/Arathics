@@ -65,26 +65,18 @@ I am a <b>Computer Science Engineering</b> graduate from Government College of E
 
 <h3 align="left">🔥 My Stats</h3>
 
-<div align="center">
-  <!-- Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Arathics&show_icons=true&theme=dracula" height="150" />
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arathics&theme=dracula&layout=compact" height="150" />
-</div>
-
-<br />
+<h3 align="left">📊 GitHub Activity</h3>
 
 <div align="center">
-  <!-- Contribution Calendar -->
-  ![GitHub Contributions](https://ghchart.rshah.org/Arathics)
+  <img src="https://github-readme-stats.vercel.app/api?username=Arathics&show_icons=true&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arathics&layout=compact&theme=dracula&hide_border=false" height="150" />
 </div>
 
-<br />
+<br>
 
 <div align="center">
-  <!-- Streak (alternative service) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arathics&theme=dracula" height="150" />
+  <img src="https://ghchart.rshah.org/Arathics" alt="GitHub contribution graph" />
 </div>
+
 
 ###
