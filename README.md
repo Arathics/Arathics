@@ -30,10 +30,10 @@
 <p align="left">
 [cite_start]I am a <b>Computer Science Engineering</b> student at Government College of Engineering Kannur with a passion for building AI-driven solutions to solve real-world problems. [cite: 9, 14]
 <br><br>
-- [cite_start]🔭 **I’m currently working on:** An AI-driven urban planning system that optimizes road layouts and reduces energy consumption. [cite: 38]
-- [cite_start]📚 **I’m currently learning:** Advanced Geospatial Analysis and Deep Learning architectures. [cite: 81]
-- [cite_start]⚡ **Fun Fact:** I'm an active volunteer and served as the Design Team Coordinator for IEEE SB GCEK. [cite: 84, 89]
-- [cite_start]📧 **Reach me at:** arathipradeep02@gmail.com [cite: 4]
+- 🔭 **I’m currently working on:** An AI-driven urban planning system that optimizes road layouts and reduces energy consumption. [cite: 38]
+- 📚 **I’m currently learning:** Advanced Geospatial Analysis and Deep Learning architectures. [cite: 81]
+- ⚡ **Fun Fact:** I'm an active volunteer and served as the Design Team Coordinator for IEEE SB GCEK. [cite: 84, 89]
+- 📧 **Reach me at:** arathipradeep02@gmail.com [cite: 4]
 </p>
 
 ###
@@ -58,9 +58,9 @@
 
 <h3 align="left">📝 Publications & Achievements</h3>
 
-- [cite_start]📄 **Smart Urban Planning:** Presented a research paper at the **IEEE-sponsored ICCICA-2025** on optimizing traffic and energy using ML and GIS. [cite: 29, 32]
-- [cite_start]🏆 **NPTEL Elite:** Designated as "Elite" in Python for Data Science by IIT Madras. [cite: 58]
-- [cite_start]☁️ **Oracle Certified:** OCI 2025 AI Foundations Associate. [cite: 61]
+- 📄 **Smart Urban Planning:** Presented a research paper at the **IEEE-sponsored ICCICA-2025** on optimizing traffic and energy using ML and GIS. [cite: 29, 32]
+- 🏆 **NPTEL Elite:** Designated as "Elite" in Python for Data Science by IIT Madras. [cite: 58]
+- ☁️ **Oracle Certified:** OCI 2025 AI Foundations Associate. [cite: 61]
 
 ###
 
