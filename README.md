@@ -67,7 +67,7 @@ I am a <b>Computer Science Engineering</b> graduate from Government College of E
 <h3 align="left">🔥 My Stats</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Arathics&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=Arathics&theme=dark&hide_border=false" height="150" />
 </div>
 
 ###
