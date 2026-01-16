@@ -67,6 +67,5 @@
 <h3 align="left">🔥 My Stats:</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arathics&show_icons=true&theme=dark" alt="Arathi's GitHub stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arathics&layout=compact&theme=dark" alt="Top Languages" height="180" />
+   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
