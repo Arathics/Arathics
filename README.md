@@ -32,7 +32,6 @@ I am a <b>Computer Science Engineering</b> graduate from Government College of E
 <br><br>
 - 🔭 <b>Currently working on:</b> An AI-driven smart urban planning system focused on traffic optimization and energy efficiency  
 - 📚 <b>Currently learning:</b> Advanced Geospatial Analysis and Deep Learning architectures  
-- ⚡ <b>Fun fact:</b> Active IEEE volunteer and former Design Team Coordinator at IEEE SB GCEK  
 - 📧 <b>Reach me at:</b> arathipradeep02@gmail.com
 </p>
 
