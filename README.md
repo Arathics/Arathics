@@ -6,10 +6,10 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/arathi-pradeep-44b394229" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
   </a>
   <a href="https://arathics.github.io/arathi-portfolio/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&color=4285F4&logoColor=white&style=for-the-badge" height="25" alt="portfolio logo" />
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&color=4285F4&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </div>
 
@@ -30,8 +30,8 @@
 <p align="left">
 I am a <b>Computer Science Engineering</b> graduate from Government College of Engineering Kannur with a strong interest in building AI-driven solutions for real-world problems.
 <br><br>
-- 🔭 <b>Currently working on:</b> An AI-driven smart urban planning system focused on traffic optimization and energy efficiency  
-- 📚 <b>Currently learning:</b> Advanced Geospatial Analysis and Deep Learning architectures  
+- 🔭 <b>Currently working on:</b> AI-driven smart urban planning for traffic and energy optimization  
+- 📚 <b>Currently learning:</b> Advanced Geospatial Analysis & Deep Learning  
 - 📧 <b>Reach me at:</b> arathipradeep02@gmail.com
 </p>
 
@@ -57,23 +57,23 @@ I am a <b>Computer Science Engineering</b> graduate from Government College of E
 
 <h3 align="left">📝 Publications & Achievements</h3>
 
-* 📄 **Smart Urban Planning:** Research paper presented at the **IEEE-sponsored ICCICA 2025**, focusing on traffic and energy optimization using ML and GIS
-* 🏆 **NPTEL Elite:** Python for Data Science, IIT Madras
-* ☁️ **Oracle Certified:** OCI 2025 AI Foundations Associate
+* 📄 <b>Smart Urban Planning:</b> IEEE ICCICA 2025 paper on ML & GIS-based traffic and energy optimization
+* 🏆 <b>NPTEL Elite:</b> Python for Data Science (IIT Madras)
+* ☁️ <b>Oracle Certified:</b> OCI 2025 AI Foundations Associate
 
 ###
 
-<h3 align="left">🔥 My Stats</h3>
-
 <h3 align="left">📊 GitHub Activity</h3>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arathics&show_icons=true&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arathics&layout=compact&theme=dracula&hide_border=false" height="150" />
+</div>
 
-
-
+<br>
 
 <div align="center">
   <img src="https://ghchart.rshah.org/Arathics" alt="GitHub contribution graph" />
 </div>
-
 
 ###
